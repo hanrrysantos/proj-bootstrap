@@ -55,8 +55,8 @@ Este projeto foi desenvolvido por:
 
 - **Emanuel Frankielson** - **Github:** Frankielson
 - **Hanrry Julio** - **Github:** hanrrysantos
-- **Italo Dannyel** - **Github:** saylonrb
-- **Saylon Batista**
+- **Italo Dannyel** 
+- **Saylon Batista** - **Github:** saylonrb
 
 GitHub do projeto: [https://github.com/saylonrb/Projeto-Loja-Virtual-Decrease](https://github.com/saylonrb/Projeto-Loja-Virtual-Decrease)
 
