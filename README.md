@@ -58,7 +58,7 @@ Este projeto foi desenvolvido por:
 - **Italo Dannyel** 
 - **Saylon Batista** - **Github:** saylonrb
 
-GitHub do projeto: [https://github.com/saylonrb/Projeto-Loja-Virtual-Decrease](https://github.com/saylonrb/Projeto-Loja-Virtual-Decrease)
+GitHub do projeto: [https://github.com/hanrrysantos/proj-bootstrap.git](https://github.com/hanrrysantos/proj-bootstrap.git)
 
 ---
 
